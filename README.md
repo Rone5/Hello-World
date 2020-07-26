@@ -1,2 +1,5 @@
 # Hello-World
-Just repository pluging 
+
+Hi Dears!
+
+Rone here, I like Python and Javascript.
